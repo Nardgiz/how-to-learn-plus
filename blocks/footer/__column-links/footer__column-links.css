@@ -1,0 +1,21 @@
+.footer__column-links {
+  line-height: 18px;
+  font-weight: normal;
+  font-size: 18px;
+  color: white;
+  margin-bottom: 10px;
+  opacity: 1;
+  text-decoration: none;
+  display: block;
+
+
+}
+
+.footer__column-links:hover {
+
+  opacity: 0.65;
+}
+
+.footer__column-links:last-of-type {
+  margin-top: 0px;
+}
