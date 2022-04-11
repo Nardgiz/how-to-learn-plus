@@ -4,9 +4,9 @@
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  margin:auto;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: auto;
   position: relative;
   top: 60px;
   bottom: 40px;

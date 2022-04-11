@@ -7,12 +7,9 @@
   opacity: 1;
   text-decoration: none;
   display: block;
-
-
 }
 
 .footer__column-links:hover {
-
   opacity: 0.65;
 }
 

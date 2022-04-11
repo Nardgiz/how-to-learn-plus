@@ -1,8 +1,5 @@
 .footer__column_content_copyright {
-  width: 50%;
-
-
-
-
-
+  min-width: 50%;
+  display: block;
+  flex-basis: 711px;
 }
