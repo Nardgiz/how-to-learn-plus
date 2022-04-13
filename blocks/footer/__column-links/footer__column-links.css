@@ -1,18 +1,15 @@
 .footer__column-links {
-  line-height: 18px;
-  font-weight: normal;
-  font-size: 18px;
-  color: white;
-  margin-bottom: 10px;
-  opacity: 1;
-  text-decoration: none;
-  display: block;
-}
-
-.footer__column-links:hover {
-  opacity: 0.65;
-}
-
-.footer__column-links:last-of-type {
-  margin-top: 0px;
+  margin: 20px 0 16px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  list-style: none;
+  padding-left: 0;
 }

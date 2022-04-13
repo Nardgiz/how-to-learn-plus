@@ -20,6 +20,8 @@
 }
 
 .rotation {
+  -webkit-animation-name: rotation;
+  animation-name: rotation;
   -webkit-animation-duration: 20s;
   animation-duration: 20s;
   -webkit-animation-iteration-count: infinite;

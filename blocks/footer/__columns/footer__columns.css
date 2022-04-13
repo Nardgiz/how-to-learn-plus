@@ -6,9 +6,6 @@
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  margin: auto;
-  position: relative;
-  top: 60px;
-  bottom: 40px;
-  min-height: 250px;
+  margin: 0 auto;
+  padding: 60px 0 40px 0;
 }

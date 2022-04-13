@@ -6,6 +6,6 @@
   -ms-flex-pack: center;
   justify-content: center;
   position: relative;
-  margin: 60px auto 0 auto;
-  z-index: 1;
+  margin: 0 auto;
+  top: 50px;
 }
