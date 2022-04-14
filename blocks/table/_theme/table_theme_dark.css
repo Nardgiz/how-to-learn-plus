@@ -2,4 +2,5 @@
   margin: 0 auto 0 auto;
   position: relative;
   z-index: 1;
+  list-style: none;
 }
