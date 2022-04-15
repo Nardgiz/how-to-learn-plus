@@ -6,9 +6,9 @@
   opacity: 1;
   text-decoration: none;
   display: block;
+  transition: linear 0.2s;
 }
 
 .footer__column-link:hover {
   opacity: 0.65;
-  transition: linear 0.2s;
 }
